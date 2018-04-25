@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "762610397970",
+    "firebase_url": "https://toypinchao.firebaseio.com",
+    "project_id": "toypinchao",
+    "storage_bucket": "toypinchao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762610397970:android:fba8cbe2be432457",
+        "android_client_info": {
+          "package_name": "com.edwinacubillos.toypinchao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762610397970-8rn4lbpmf1qe03slqre8am8bj90sbbm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edwinacubillos.toypinchao",
+            "certificate_hash": "07446338a7092c27d0cc5b94eabb08dcb38a0557"
+          }
+        },
+        {
+          "client_id": "762610397970-ivaup86k15tddji01sga7vujqqhipk1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiQNPKuUiuJvzSxQcXA_41GBqeXzWSnBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762610397970-ivaup86k15tddji01sga7vujqqhipk1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
